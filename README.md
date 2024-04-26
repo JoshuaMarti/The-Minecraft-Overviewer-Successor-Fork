@@ -1,3 +1,5 @@
+#I no longer use this fork and this is not the main project. To learn more about Overviewer, visit https://github.com/GregoryAM-SP/The-Minecraft-Overviewer
+
 # The Minecraft Overviewer
 
 ### What is The Minecraft Overviewer?
